@@ -117,6 +117,14 @@ class _MyHomePageState extends State<MyHomePage> {
               'mm',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            Text(
+              'mm1',
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
+            Text(
+              'mm2',
+              style: Theme.of(context).textTheme.headlineMedium,
+            ),
           ],
         ),
       ),
