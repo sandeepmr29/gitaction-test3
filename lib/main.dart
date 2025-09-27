@@ -118,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Text(
-              'cc2',
+'cc2'
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Text(
