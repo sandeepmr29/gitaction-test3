@@ -114,11 +114,11 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Text(
-              'mm',
+              'cc1',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Text(
-              'mm3',
+'cc2'
               style: Theme.of(context).textTheme.headlineMedium,
             ),
             Text(
